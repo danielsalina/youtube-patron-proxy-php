@@ -1,0 +1,3 @@
+# Patrón Proxy en PHP: Controla el Acceso y Mejora el Rendimiento de tus Objetos
+
+- En este tutorial, aprenderás cómo implementar el Patrón Proxy en PHP, un patrón de diseño estructural que te permite controlar el acceso a tus objetos de manera eficiente. Veremos cómo utilizar proxies para gestionar recursos costosos o diferir su creación, optimizando el rendimiento de tu aplicación. Además, exploraremos ejemplos prácticos de cómo puedes proteger y restringir el acceso a ciertos recursos, mientras mantienes un código limpio y flexible. Ideal para desarrolladores que buscan mejorar la eficiencia y seguridad de sus aplicaciones PHP.
